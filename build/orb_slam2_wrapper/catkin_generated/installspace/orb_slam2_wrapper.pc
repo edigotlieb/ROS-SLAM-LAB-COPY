@@ -1,0 +1,8 @@
+prefix=/lab/lab_ws/install
+
+Name: orb_slam2_wrapper
+Description: Description of orb_slam2_wrapper
+Version: 3.0.0
+Cflags: -I/lab/lab_ws/install/include -I/usr/include
+Libs: -L/lab/lab_ws/install/lib -lorb_slam2_wrapper /usr/lib/x86_64-linux-gnu/libboost_system.so
+Requires: roscpp tf tf2 tf2_geometry_msgs tf2_ros cv_bridge std_msgs sensor_msgs geometry_msgs image_transport nodelet pluginlib

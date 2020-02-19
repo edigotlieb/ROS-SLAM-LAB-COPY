@@ -1,0 +1,8 @@
+prefix=/lab/lab_ws/install
+
+Name: bebop_msgs
+Description: Description of bebop_msgs
+Version: 0.7.0
+Cflags: -I/lab/lab_ws/install/include
+Libs: -L/lab/lab_ws/install/lib 
+Requires: message_runtime std_msgs

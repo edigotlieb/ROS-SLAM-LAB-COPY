@@ -1,0 +1,1 @@
+/lab/lab_ws/devel/.private/orb_slam2_wrapper/share/orb_slam2_wrapper/cmake/orb_slam2_wrapperConfig-version.cmake

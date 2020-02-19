@@ -1,0 +1,8 @@
+prefix=/lab/lab_ws/install
+
+Name: crazyflie_cpp
+Description: Description of crazyflie_cpp
+Version: 0.0.1
+Cflags: -I/lab/lab_ws/install/include
+Libs: -L/lab/lab_ws/install/lib -lcrazyflie_cpp
+Requires: 

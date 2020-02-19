@@ -1,0 +1,8 @@
+prefix=/lab/lab_ws/devel/.private/crazyflie_cpp
+
+Name: crazyflie_cpp
+Description: Description of crazyflie_cpp
+Version: 0.0.1
+Cflags: -I/lab/lab_ws/src/crazyflie_ws/src/crazyflie_ros/crazyflie_cpp/include
+Libs: -L/lab/lab_ws/devel/.private/crazyflie_cpp/lib -lcrazyflie_cpp
+Requires: 

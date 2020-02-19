@@ -1,0 +1,13 @@
+Symlinking /lab/lab_ws/devel/lib/crazyflie_tools/console
+Symlinking /lab/lab_ws/devel/lib/crazyflie_tools/listLogVariables
+Symlinking /lab/lab_ws/devel/lib/crazyflie_tools/comCheck
+Symlinking /lab/lab_ws/devel/lib/crazyflie_tools/reboot
+Symlinking /lab/lab_ws/devel/lib/crazyflie_tools/version
+Symlinking /lab/lab_ws/devel/lib/crazyflie_tools/listParams
+Symlinking /lab/lab_ws/devel/lib/crazyflie_tools/battery
+Symlinking /lab/lab_ws/devel/lib/crazyflie_tools/scan
+Symlinking /lab/lab_ws/devel/lib/crazyflie_tools/flash
+Symlinking /lab/lab_ws/devel/lib/crazyflie_tools/listMemories
+Symlinking /lab/lab_ws/devel/lib/pkgconfig/crazyflie_tools.pc
+Symlinking /lab/lab_ws/devel/share/crazyflie_tools/cmake/crazyflie_toolsConfig-version.cmake
+Symlinking /lab/lab_ws/devel/share/crazyflie_tools/cmake/crazyflie_toolsConfig.cmake

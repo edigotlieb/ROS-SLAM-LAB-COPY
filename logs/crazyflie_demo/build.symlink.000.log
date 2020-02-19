@@ -1,0 +1,4 @@
+Symlinking /lab/lab_ws/devel/lib/pkgconfig/crazyflie_demo.pc
+Symlinking /lab/lab_ws/devel/lib/crazyflie_demo/quadrotor_teleop
+Symlinking /lab/lab_ws/devel/share/crazyflie_demo/cmake/crazyflie_demoConfig-version.cmake
+Symlinking /lab/lab_ws/devel/share/crazyflie_demo/cmake/crazyflie_demoConfig.cmake

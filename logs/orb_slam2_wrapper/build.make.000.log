@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target orb_slam2_wrapper[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/orb_slam2_wrapper.dir/src/orb_slam2_mono.cpp.o[0m
+[ 33%] [32m[1mLinking CXX shared library /lab/lab_ws/devel/.private/orb_slam2_wrapper/lib/liborb_slam2_wrapper.so[0m
+[ 33%] Built target orb_slam2_wrapper
+[35m[1mScanning dependencies of target orb_slam2_mono_nodelet[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/orb_slam2_mono_nodelet.dir/src/orb_slam2_mono_nodelet.cpp.o[0m
+[35m[1mScanning dependencies of target orb_slam2_mono_node[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/orb_slam2_mono_node.dir/src/orb_slam2_mono_node.cpp.o[0m
+[ 83%] [32m[1mLinking CXX shared library /lab/lab_ws/devel/.private/orb_slam2_wrapper/lib/liborb_slam2_mono_nodelet.so[0m
+[ 83%] Built target orb_slam2_mono_nodelet
+[100%] [32m[1mLinking CXX executable /lab/lab_ws/devel/.private/orb_slam2_wrapper/lib/orb_slam2_wrapper/orb_slam2_mono_node[0m
+[100%] Built target orb_slam2_mono_node

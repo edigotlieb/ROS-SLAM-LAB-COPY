@@ -1,0 +1,4 @@
+Symlinking /lab/lab_ws/devel/lib/libcrazyflie_cpp.so
+Symlinking /lab/lab_ws/devel/lib/pkgconfig/crazyflie_cpp.pc
+Symlinking /lab/lab_ws/devel/share/crazyflie_cpp/cmake/crazyflie_cppConfig.cmake
+Symlinking /lab/lab_ws/devel/share/crazyflie_cpp/cmake/crazyflie_cppConfig-version.cmake

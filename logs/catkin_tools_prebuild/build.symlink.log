@@ -1,0 +1,8 @@
+Symlinking /lab/lab_ws/devel/./env.sh
+Symlinking /lab/lab_ws/devel/./setup.zsh
+Symlinking /lab/lab_ws/devel/./setup.sh
+Symlinking /lab/lab_ws/devel/./setup.bash
+Symlinking /lab/lab_ws/devel/./_setup_util.py
+Symlinking /lab/lab_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /lab/lab_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /lab/lab_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake

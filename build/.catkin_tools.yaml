@@ -1,0 +1,6 @@
+devel_space: /lab/lab_ws/devel
+install: false
+install_space: /lab/lab_ws/install
+profile: default
+source_space: /lab/lab_ws/src
+workspace: /lab/lab_ws

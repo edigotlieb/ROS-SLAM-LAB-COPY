@@ -1,0 +1,1 @@
+/lab/lab_ws/devel/.private/crazyflie_controller/share/crazyflie_controller/cmake/crazyflie_controllerConfig-version.cmake
